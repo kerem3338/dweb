@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Kerem ATA (zoda)"
+	],
+	"copyright": "Copyright © 2026, Kerem ATA (zoda)",
+	"description": "Simple yet usefull web framework for D",
+	"license": "MIT",
+	"name": "dweb",
+	"targetType": "library"
+}

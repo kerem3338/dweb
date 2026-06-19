@@ -1,0 +1,17 @@
+
+[packages.template_d]
+type = "file"
+description = "Z-Template engine (part of the dtools project)"
+obtain = "https://github.com/kerem3338/dtools"
+path = ["source", "dweb", "tpl.d"]
+
+[project]
+authors = ["Kerem ATA (zoda"]
+license = "MIT"
+name = "dweb"
+repository = "https://github.com/kerem3338/dweb"
+envman_version = "0.0.2"
+description = "Simple yet usefull web framework for D"
+homepage = ""
+version = "0.1.0"
+keywords = ["web", "dlang"]

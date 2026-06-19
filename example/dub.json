@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"zoda"
+	],
+	"copyright": "Copyright © 2026, zoda",
+	"description": "Example app using dweb",
+	"license": "MIT",
+	"name": "example",
+	"dependencies": {
+		"dweb": {
+			"path": ".."
+		}
+	}
+}
