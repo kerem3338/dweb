@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"name": "example",
 	"dependencies": {
-		"dweb": {
+		"dweb-d": {
 			"path": ".."
 		}
 	}
