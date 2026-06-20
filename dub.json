@@ -5,6 +5,6 @@
 	"copyright": "Copyright © 2026, Kerem ATA (zoda)",
 	"description": "Simple yet usefull web framework for D",
 	"license": "MIT",
-	"name": "dweb",
+	"name": "dweb-d",
 	"targetType": "library"
 }
